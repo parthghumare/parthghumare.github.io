@@ -1,7 +1,7 @@
 
 # Portfolio
 
-####Language & Tools: Python, R, SQL, Power BI, Alteryx, Tableau, Airflow
+#### Language & Tools: Python, R, SQL, Power BI, Alteryx, Tableau, Airflow
 
 ## Education					       		
 - M.S., Business Analytics	| University of Texas at Dallas (_May 2024_)	 			        		
