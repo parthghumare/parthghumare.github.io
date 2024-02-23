@@ -1,43 +1,44 @@
 
-# Data Scientist
+# Portfolio
 
-#### Languages and Tools: Python, R, SQL, Power BI, Alteryx, Tableau, Airflow
-#### Analytics Skills: Statistical Analytics, Data processing, Data Visualization & Reporting, ETL, Pipeline Automation,
-Hypothesis Testing, Predictive Modelling, Regression & Classification modelling, Scikit Learn, NumPy, Matplotlib
+####Language & Tools: Python, R, SQL, Power BI, Alteryx, Tableau, Airflow
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education					       		
+- M.S., Business Analytics	| University of Texas at Dallas (_May 2024_)	 			        		
+- B.E., Computer Science | Mumbai University (_May 2022_)
 
 ## Work Experience
 **Data Analyst @ Quantiphi Analytics (_September 2021 - July 2022_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Implemented data workflows, automating data processing for over 5M rows using SQL and Alteryx, reducing monthly data preparation hours from 80 to 40.
+- Partnered with data science team to design predictive models and implement optimization strategies for the currently deployed models, boosting customer response rate by 30%.
+- Ensured data accuracy and integrity by implementing various validation processes for data ingestion.
+- Developed 10+ Tableau reports, integrating disparate data sources and presented to mid-upper level stakeholders.
+- Automated major manual MS Excel reports to Tableau Dashboards, increasing reporting efficiency by 50%.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Business Intelligence Analyst Intern @ The Maverics Technologies (_February 2021 - September 2021_)**
+- Spearheaded the development and maintenance of 10+ analytical dashboards in Power BI, for enterprise level sales and operations data, driving a 30% boost in delivery efficiency.
+- Enabled reporting of real-time insights by integrating multiple data sources and gathering retail client requirements for YOY trends, sales, and attrition dashboards.
+- Translated business questions into SQL queries analyzing quarterly sales patterns on web platform to help the marketing strategy team, resulting in a 35% increase in sales.
+- Trained two interns on Power BI to develop and deliver reports to senior management.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Financial (Tax) Data Analysis
+The Walt Disney Company – Alteryx Datathon (Finalist) [Github](https://github.com/parthghumare/Financial-Data-Analysis-Alteryx-Datathon)
+- Generated international annual revenue report- containing 250+ entities by analyzing global tax returns.
+- Modelled 1M+ rows of unclean financial data in Alteryx to reveal tax and debt trends for the year 2020-2021.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+![EEG Band Discovery](/assets/img/1.png)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Credit Risk Estimation
+The University of Texas at Dallas – [Github](https://github.com/parthghumare/Credit-Risk-Estimation-and-Strategy)
+- Built a high-performance machine learning model using Python to predict if the customer will default on credit.
+- Used Grid Search and XGBoost to train 7M+ records and optimized the model to achieve 90% AUC score.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+![Bike Study](/assets/img/2.png)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Certifications
+- Azure- Cloud Fundamentals (_AZ-900_), AI Fundamentals (_AI-900_)
+- Alteryx- Core, Machine Learning
+- Machine Learning (_Coursera- Stanford_)
+- Advanced Tableau - (_LinkedIn Learning_)
+- SQL Gold Badge (_HackerRank_)
