@@ -21,6 +21,8 @@
 - Translated business questions into SQL queries analyzing quarterly sales patterns on web platform to help the marketing strategy team, resulting in a 35% increase in sales.
 - Trained two interns on Power BI to develop and deliver reports to senior management.
 
+|
+
 ## Projects
 ### Financial (Tax) Data Analysis
 The Walt Disney Company – Alteryx Datathon (Finalist) [Github](https://github.com/parthghumare/Financial-Data-Analysis-Alteryx-Datathon)
@@ -35,6 +37,8 @@ The University of Texas at Dallas – [Github](https://github.com/parthghumare/C
 - Used Grid Search and XGBoost to train 7M+ records and optimized the model to achieve 90% AUC score.
 
 ![Bike Study](/assets/img/2.png)
+
+|
 
 ## Certifications
 - Azure- Cloud Fundamentals (_AZ-900_), AI Fundamentals (_AI-900_)
