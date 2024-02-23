@@ -1,8 +1,9 @@
-# parthghumare.github.io
 
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Languages and Tools: Python, R, SQL, Power BI, Alteryx, Tableau, Airflow
+#### Analytics Skills: Statistical Analytics, Data processing, Data Visualization & Reporting, ETL, Pipeline Automation,
+Hypothesis Testing, Predictive Modelling, Regression & Classification modelling, Scikit Learn, NumPy, Matplotlib
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
@@ -10,7 +11,7 @@
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Data Analyst @ Quantiphi Analytics (_September 2021 - July 2022_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
