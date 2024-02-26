@@ -38,7 +38,7 @@ The University of Texas at Dallas – [Github](https://github.com/parthghumare/C
 
 ![Bike Study](/assets/img/2.png)
 
-### Neural Network Architecture Performance comparison
+### Neural Network Architecture Performance Comparison
 The University of Texas at Dallas – [Github](https://github.com/parthghumare/Deep-Narrow-versus-Shallow-Wide-Neural-Network-Model-Performance)
 - A study on why neural networks keep getting deeper but not wider for various industry applications.
 - The goal of this project is to compare the performance of deep and narrow versus shallow and wide neural networks on specific tasks to determine which architecture offers the best trade- off between accuracy, training time, and computational efficiency.
@@ -46,7 +46,7 @@ The University of Texas at Dallas – [Github](https://github.com/parthghumare/D
 ![Bike Study](/assets/img/4.png)
 |
 
-## Certifications
+## Certifications and Talks
 - Azure- Cloud Fundamentals (_AZ-900_), AI Fundamentals (_AI-900_)
 - Alteryx- Core, Machine Learning
 - Machine Learning (_Coursera- Stanford_)
