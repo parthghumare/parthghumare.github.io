@@ -55,4 +55,4 @@ The University of Texas at Dallas – [Github](https://github.com/parthghumare/D
 - SQL Gold Badge (_HackerRank_)
 
 - "Comparing One Class-SVM & Isolation forest - Unsupervised Algorithms"
-![Talk](/assets/img/2.JPG)
+![Talk](/assets/img/22.JPG)
