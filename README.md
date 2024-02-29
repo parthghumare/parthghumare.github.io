@@ -29,22 +29,23 @@ The Walt Disney Company – Alteryx Datathon (Finalist) [Github](https://github.
 - Generated international annual revenue report- containing 250+ entities by analyzing global tax returns.
 - Modelled 1M+ rows of unclean financial data in Alteryx to reveal tax and debt trends for the year 2020-2021.
 
-![EEG Band Discovery](/assets/img/1.png)
+![Alteryx](/assets/img/1.png)
 
 ### Credit Risk Estimation
 The University of Texas at Dallas – [Github](https://github.com/parthghumare/Credit-Risk-Estimation-and-Strategy)
 - Built a high-performance machine learning model using Python to predict if the customer will default on credit.
 - Used Grid Search and XGBoost to train 7M+ records and optimized the model to achieve 90% AUC score.
 
-![Bike Study](/assets/img/2.png)
+![Creditrisk](/assets/img/2.png)
 
 ### Neural Network Architecture Performance Comparison
 The University of Texas at Dallas – [Github](https://github.com/parthghumare/Deep-Narrow-versus-Shallow-Wide-Neural-Network-Model-Performance)
 - A study on why neural networks keep getting deeper but not wider for various industry applications.
 - The goal of this project is to compare the performance of deep and narrow versus shallow and wide neural networks on specific tasks to determine which architecture offers the best trade- off between accuracy, training time, and computational efficiency.
 
-![Bike Study](/assets/img/4.png)
-|
+![NN](/assets/img/4.png)
+
+
 
 ## Certifications and Talks
 - Azure- Cloud Fundamentals (_AZ-900_), AI Fundamentals (_AI-900_)
@@ -52,3 +53,6 @@ The University of Texas at Dallas – [Github](https://github.com/parthghumare/D
 - Machine Learning (_Coursera- Stanford_)
 - Advanced Tableau - (_LinkedIn Learning_)
 - SQL Gold Badge (_HackerRank_)
+
+- "Comparing One Class-SVM & Isolation forest - Unsupervised Algorithms"
+![Talk](/assets/img/2.JPG)
