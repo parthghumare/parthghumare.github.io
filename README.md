@@ -21,6 +21,10 @@
 - Translated business questions into SQL queries analyzing quarterly sales patterns on web platform to help the marketing strategy team, resulting in a 35% increase in sales.
 - Trained two interns on Power BI to develop and deliver reports to senior management.
 
+**Research Assistant @ The University of Texas at Dallas (_May 2023 - Present_)**
+- Optimized analytical processes through sampling and feature engineering to handle complex datasets.
+- Project work focusing on predicting customer response rates based on the channel of contact, aiding in the development of marketing strategies.
+
 |
 
 ## Projects
@@ -54,5 +58,5 @@ The University of Texas at Dallas – [Github](https://github.com/parthghumare/D
 - Advanced Tableau - (_LinkedIn Learning_)
 - SQL Gold Badge (_HackerRank_)
 
-- "Comparing One Class-SVM & Isolation forest - Unsupervised Algorithms"
+- "Comparing One Class-SVM & Isolation forest - Unsupervised Algorithms" - Talk at a graduate class at UT Dallas.
 ![Talk](/assets/img/22.JPG)
