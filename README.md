@@ -15,7 +15,7 @@
 - Developed 10+ Tableau reports, integrating disparate data sources and presented to mid-upper level stakeholders.
 - Automated major manual MS Excel reports to Tableau Dashboards, increasing reporting efficiency by 50%.
 
-**Business Intelligence Analyst Intern @ The Maverics Technologies (_February 2021 - September 2021_)**
+**Business Intelligence Analyst Intern @ The Maverics Technologies (_May 2020 - September 2021_)**
 - Spearheaded the development and maintenance of 10+ analytical dashboards in Power BI, for enterprise level sales and operations data, driving a 30% boost in delivery efficiency.
 - Enabled reporting of real-time insights by integrating multiple data sources and gathering retail client requirements for YOY trends, sales, and attrition dashboards.
 - Translated business questions into SQL queries analyzing quarterly sales patterns on web platform to help the marketing strategy team, resulting in a 35% increase in sales.
