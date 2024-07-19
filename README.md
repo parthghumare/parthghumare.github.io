@@ -8,12 +8,13 @@
 - B.E., Computer Science | Mumbai University (_May 2022_)
 
 ## Work Experience
-**Data Analyst @ Quantiphi Analytics (_September 2021 - July 2022_)**
-- Implemented data workflows, automating data processing for over 5M rows using SQL and Alteryx, reducing monthly data preparation hours from 80 to 40.
-- Partnered with data science team to design predictive models and implement optimization strategies for the currently deployed models, boosting customer response rate by 30%.
-- Ensured data accuracy and integrity by implementing various validation processes for data ingestion.
-- Developed 10+ Tableau reports, integrating disparate data sources and presented to mid-upper level stakeholders.
-- Automated major manual MS Excel reports to Tableau Dashboards, increasing reporting efficiency by 50%.
+**Financial Data Analyst @ Quantiphi Analytics (_September 2021 - July 2022_)**
+- Conducted data cleaning and preparation of insurance claim data using a Python workflow that combined data from multiple sources, and developed 15+ comprehensive Tableau dashboards.
+- Implemented a new risk monitoring framework that increased the frequency and depth of reviews, reducing unidentified credit exposures by 30% and enhancing the bank's risk management capabilities.
+- Designed and implemented data workflows, automating financial data processing for over 5M+ rows using AWS Glue and S3, reducing monthly data preparation hours from 80 to 40.
+- Revised credit policies, resulting in a 20% decrease in overdue loans and maintained a more robust credit portfolio aligned with the bank's risk appetite.
+- Translated business questions into SQL queries and analyzed quarterly sales patterns on their web platform to help the marketing strategy team, resulting in a 35% increase in sales.
+- Automated major manual MS Excel reports to Power BI Dashboards, increasing reporting efficiency by 70%.
 
 **Business Intelligence Analyst Intern @ The Maverics Technologies (_May 2020 - September 2021_)**
 - Spearheaded the development and maintenance of 10+ analytical dashboards in Power BI, for enterprise level sales and operations data, driving a 30% boost in delivery efficiency.
